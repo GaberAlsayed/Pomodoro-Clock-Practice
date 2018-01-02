@@ -1,0 +1,34 @@
+@import url(https://fonts.googleapis.com/css?family=Passion+One);
+body{
+  background-image: url("https://images.unsplash.com/37/tEREUy1vSfuSu8LzTop3_IMG_2538.jpg?auto=format&fit=crop&w=1950&q=80");
+  background-size:100%;
+  background-attachment:fixed;
+  color:white;
+  font-family:"Passion One";
+  
+}
+
+h2{
+  display:inline;
+   text-shadow:
+    0  0 10px red;
+}
+#start{
+  margin:10px;
+}
+h1{
+  text-shadow:
+    0  0 10px red;
+}
+h3{
+   text-shadow:
+    0  0 10px red;
+}
+#num{
+  text-shadow:
+    0  0 10px red;
+}
+#breakNum{
+  text-shadow:
+    0  0 10px red;
+}
